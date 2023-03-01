@@ -36,4 +36,16 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    //glide dependency
+    implementation 'com.github.bumptech.glide:glide:4.14.2'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.14.2'
+    // animatto dependency
+    implementation 'com.github.AtifSayings:Animatoo:1.0.1'
+    //country code picker dependency
+    implementation 'com.hbb20:ccp:2.7.0'
+    //retrofit dependency
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+//gson dependency
+    implementation 'com.google.code.gson:gson:2.10.1'
 }
