@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#FF0000</color>
     <color name="yellow">#FFDF00</color>
+    <color name="action_bar_color">#D3BB15</color>
 </resources>

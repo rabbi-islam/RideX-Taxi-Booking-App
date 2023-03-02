@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724226635433",
+    "project_id": "ridex---taxi-booking",
+    "storage_bucket": "ridex---taxi-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724226635433:android:8395b402f6fc7c591b1bb8",
+        "android_client_info": {
+          "package_name": "com.rabbi.ridex_taxibooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724226635433-9pe9sqmdbmf355i52c4d4nduvmhas9gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4N02bh5P1Wi0zczXVEo3oia18zY4sKyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724226635433-9pe9sqmdbmf355i52c4d4nduvmhas9gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
